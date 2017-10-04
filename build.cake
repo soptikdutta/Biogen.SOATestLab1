@@ -26,8 +26,8 @@ var cluster = Argument("Cluster", "PoC");
 
 // Define directories.
 var buildDir = Directory("./src/Example/bin") + Directory(configuration);
-var publishProfileDir = Directory("./MultiBannerBackend/PublishProfiles/Cloud.xml");
-var packageDir = Directory("./MultiBannerBackend/pkg/Debug");
+var publishProfileDir = Directory("./Biogen.SOATest/PublishProfiles/Cloud.xml");
+var packageDir = Directory("./Biogen.SOATest/bin/Debug");
 var jiraSpecDir = Directory("./Backend.Test.Spec/Backend.Test.Spec.csproj");
 var testDir = Directory("./test");
 var testDirPath = File("./test/File.dll");
@@ -41,7 +41,7 @@ Task("Clean")
     .Does(() =>
 {
     CleanDirectory(packageDir);
-	CleanDirectory(testDir);	
+	//CleanDirectory(testDir);	
 });
 
 Task("Clean-Sdk")
@@ -55,7 +55,7 @@ Task("Restore-NuGet-Packages")
     .IsDependentOn("Clean")
     .Does(() =>
 {
-    NuGetRestore("./MultiBannerBackend.sln");
+    NuGetRestore("./Biogen.SOATest.sln");
 });
 
 
@@ -66,13 +66,13 @@ Task("Build")
     if(IsRunningOnWindows())
     {
       // Use MSBuild
-		MSBuild("./MultiBannerBackend/MultiBannerBackend.sfproj", configurator =>
+		MSBuild("./Biogen.SOATest/Biogen.SOATest.csproj", configurator =>
 		configurator.SetConfiguration(configuration)
         .SetVerbosity(Verbosity.Normal)
-        .UseToolVersion(MSBuildToolVersion.VS2015)
+        .UseToolVersion(MSBuildToolVersion.VS2013)
         .SetMSBuildPlatform(MSBuildPlatform.x64)
         .SetPlatformTarget(PlatformTarget.x64)		
-		.WithTarget("Package"));
+		.WithTarget("Rebuild"));
     }
     else
     {

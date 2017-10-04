@@ -1,0 +1,4 @@
+C:\Users\sdutta6\Documents\Biogen.SOATestLab1\Biogen.SOATest\bin\x64\Debug\Biogen.SOATest.dll
+C:\Users\sdutta6\Documents\Biogen.SOATestLab1\Biogen.SOATest\bin\x64\Debug\Biogen.SOATest.pdb
+C:\Users\sdutta6\Documents\Biogen.SOATestLab1\Biogen.SOATest\obj\x64\Debug\Biogen.SOATest.dll
+C:\Users\sdutta6\Documents\Biogen.SOATestLab1\Biogen.SOATest\obj\x64\Debug\Biogen.SOATest.pdb
