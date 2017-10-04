@@ -7,3 +7,8 @@ C:\Users\sdutta6\Documents\Visual Studio 2010\Projects\Biogen.SOATestLab1\Biogen
 C:\Users\sdutta6\Documents\Visual Studio 2010\Projects\Biogen.SOATestLab1\Biogen.SOATest\obj\Debug\Biogen.SOATest.csprojResolveAssemblyReference.cache
 C:\Users\sdutta6\Documents\Visual Studio 2010\Projects\Biogen.SOATestLab1\Biogen.SOATest\obj\Debug\Biogen.SOATest.dll
 C:\Users\sdutta6\Documents\Visual Studio 2010\Projects\Biogen.SOATestLab1\Biogen.SOATest\obj\Debug\Biogen.SOATest.pdb
+C:\Users\sdutta6\Documents\Biogen.SOATestLab1\Biogen.SOATest\bin\Debug\Biogen.SOATest.dll
+C:\Users\sdutta6\Documents\Biogen.SOATestLab1\Biogen.SOATest\bin\Debug\Biogen.SOATest.pdb
+C:\Users\sdutta6\Documents\Biogen.SOATestLab1\Biogen.SOATest\obj\Debug\Biogen.SOATest.csprojResolveAssemblyReference.cache
+C:\Users\sdutta6\Documents\Biogen.SOATestLab1\Biogen.SOATest\obj\Debug\Biogen.SOATest.dll
+C:\Users\sdutta6\Documents\Biogen.SOATestLab1\Biogen.SOATest\obj\Debug\Biogen.SOATest.pdb
