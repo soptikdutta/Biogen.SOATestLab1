@@ -1,0 +1,9 @@
+c:\users\sdutta6\documents\visual studio 2010\Projects\Biogen.SOATest\Biogen.SOATest\bin\Debug\Biogen.SOATest.dll
+c:\users\sdutta6\documents\visual studio 2010\Projects\Biogen.SOATest\Biogen.SOATest\bin\Debug\Biogen.SOATest.pdb
+c:\users\sdutta6\documents\visual studio 2010\Projects\Biogen.SOATest\Biogen.SOATest\obj\Debug\Biogen.SOATest.dll
+c:\users\sdutta6\documents\visual studio 2010\Projects\Biogen.SOATest\Biogen.SOATest\obj\Debug\Biogen.SOATest.pdb
+C:\Users\sdutta6\Documents\Visual Studio 2010\Projects\Biogen.SOATestLab1\Biogen.SOATest\bin\Debug\Biogen.SOATest.dll
+C:\Users\sdutta6\Documents\Visual Studio 2010\Projects\Biogen.SOATestLab1\Biogen.SOATest\bin\Debug\Biogen.SOATest.pdb
+C:\Users\sdutta6\Documents\Visual Studio 2010\Projects\Biogen.SOATestLab1\Biogen.SOATest\obj\Debug\Biogen.SOATest.csprojResolveAssemblyReference.cache
+C:\Users\sdutta6\Documents\Visual Studio 2010\Projects\Biogen.SOATestLab1\Biogen.SOATest\obj\Debug\Biogen.SOATest.dll
+C:\Users\sdutta6\Documents\Visual Studio 2010\Projects\Biogen.SOATestLab1\Biogen.SOATest\obj\Debug\Biogen.SOATest.pdb
